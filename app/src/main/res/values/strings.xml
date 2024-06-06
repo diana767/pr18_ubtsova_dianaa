@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pract18var6Rubtsova</string>
+    <string name="password">Придумайте пароль</string>
+    <string name="login">Придумайте логин</string>
+    <string name="registracia">Зарегистрироваться</string>
+    <string name="registr">Регистрация</string>
+</resources>
